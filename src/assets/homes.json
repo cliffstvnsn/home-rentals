@@ -1,0 +1,50 @@
+[
+    {
+        "image_url": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=formate&fit=crop&w=500&q=80",
+        "type": "Apartment",
+        "location" : "New York",
+        "title": "Superb duplex apartment in the historical centre"
+    },
+    {
+        "image_url": "https://images.unsplash.com/photo-1562008611-536a64c1bc26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0eSUyMGFwYXJ0bWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+        "type": "Townhouse",
+        "location" : "Boston",
+        "title": "Near fenway park, very spacious"
+    },
+    {
+        "image_url": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXBhcnRtZW50JTIwaW50ZXJpb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+        "type": "Mews",
+        "location" : "London",
+        "title": "Paddington duplex apartment"
+    },
+    {
+        "image_url": "https://images.unsplash.com/photo-1606074280798-2dabb75ce10c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "type": "Apartment",
+        "location" : "Chicago",
+        "title": "Stay warm in the windy city"
+    },
+    {
+        "image_url": "https://images.unsplash.com/photo-1592383809697-4986ac3151c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "type": "Apartment",
+        "location" : "Miami",
+        "title": "Art deco classic Miami home"
+    },
+    {
+        "image_url": "https://images.unsplash.com/photo-1564137799581-baca1aa17f5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXRodW1ibmFpbHx8OTY0NTEyMHx8ZW58MHx8fHw%3D&dpr=1&auto=format&fit=crop&w=294&q=60",
+        "type": "Rancher",
+        "location" : "Boise",
+        "title": "Rustic farmhouse in the mountains"
+    },
+    {
+        "image_url": "https://images.unsplash.com/photo-1626965654957-fef1cb80d4b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "type": "Apartment",
+        "location" : "Richmond",
+        "title": "Deluxe fan apartment"
+    },
+    {
+        "image_url": "https://images.unsplash.com/photo-1614607242094-b1b2cf769ff3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "type": "Home",
+        "location" : "San Diego",
+        "title": "Impressive and near the beach"
+    }
+]
